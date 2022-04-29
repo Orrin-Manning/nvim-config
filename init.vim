@@ -1,3 +1,6 @@
+call plug#begin()
+call plug#end()
+
 filetype plugin indent on
 syntax on
 
