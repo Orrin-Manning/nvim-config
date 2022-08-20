@@ -1,4 +1,5 @@
 call plug#begin()
+Plug 'tpope/vim-surround'
 Plug 'morhetz/gruvbox'
 call plug#end()
 
